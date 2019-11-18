@@ -1,5 +1,5 @@
 # hello-world
-repository-1
+repository-2
 making changes to branch and understanding the concept of commit
-change 1
+change 2
 
